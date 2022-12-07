@@ -1,0 +1,25 @@
+GOREV-1
+1. ASAMA [22,27,16,2,18,6] dizisindeki en kucuk sayi bulunur ve ilk siradaki sayiyla yer değistirir.
+2. ASAMA [2,27,16,22,18,6] dizindeki en kucuk ikinci sayi bulunur ve ikinci siradaki sayiyla yer değistirir.
+3. ASAMA [2,6,16,22,18,27] dizisindeki en kucuk  ucuncu sayi bulunur ve yerinde oldugu icin islem yapılmaz.
+4. ASAMA [2,6,16,22,18,27] dizisindeki en kucuk dorduncu sayi bulunur ve dorduncu siradaki sayiyla yer degistirir.
+5. ASAMA [2,6,16,18,22,27] dizisindeki en kucuk besinci sayi bulunur ve yerinde olduğu icin islem yapilmaz.
+
+
+GOREV-2
+n=6 
+n,n-1, ......, 1 --> 6,5,4,3,2,1
+(n*(n-1))/2 isleminde en büyük kuvvete sahip deger n^2
+BIG-O gosterimi O(n^2)
+
+
+
+GOREV-3
+Avarage Case kapsamına girer.
+
+
+GOREV-4
+1. ASAMA [7,3,5,8,2,9,4,15,6] dizisindeki en kucuk sayi bulunur ve ilk siradaki sayiyla yer değistirir.
+2. ASAMA [2,3,5,8,7,9,4,15,6] dizisindeki en kucuk  ikinci sayi bulunur ve yerinde oldugu icin islem yapılmaz.
+3. ASAMA [2,3,5,8,7,9,4,15,6] dizindeki en kucuk ucuncu sayi bulunur ve ucuncu siradaki sayiyla yer değistirir.
+4. ASAMA [2,3,4,8,7,9,5,15,6] dizisindeki en kucuk dorduncu sayi bulunur ve dorduncu siradaki sayiyla yer degistirir.

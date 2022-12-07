@@ -1,0 +1,5 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
+Root=4 
+Sayı<Root ise rootun soluna yazılır
+Sayı>Root ise rootun sağına yazılır
+Rootun (4) sağ tarafında [5,6,7,8,9], sol tarafında [0,1,2,3] bulunur
